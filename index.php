@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="en-gb">
 
 <head>
-	<title>Barebones - An initial directory setup, style guide and pattern primer</title>
+	<title>University of Bath - An initial directory setup, style guide and pattern primer</title>
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
